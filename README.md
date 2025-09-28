@@ -1,5 +1,5 @@
 纯Adobe Podcast优化。如果有其他更好的模型能跑更好的效果欢迎踢我。
-# -------
+
 使用方法：
 0.确保你的电脑环境上已经安装python：https://www.python.org/ftp/python/3.13.7/
 1.将文件包中的extract_pac.py放置到 steam游戏目录\Sora No Kiseki the 1st\pac\steam路径下
